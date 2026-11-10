@@ -1,0 +1,11 @@
+{
+  "name": "glance",
+  "version": "1.0.0",
+  "description": "A small widget above the prompt: status, model and effort, session cost, directory, git branch, and context, 5-hour and weekly usage bars.",
+  "author": { "name": "William Henry Federis" },
+  "license": "MIT",
+  "homepage": "https://github.com/DevLiamF/glance",
+  "repository": "https://github.com/DevLiamF/glance",
+  "keywords": ["status", "usage", "rate-limits", "context", "widget"],
+  "types": "./types/index.d.ts"
+}

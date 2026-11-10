@@ -1,0 +1,16 @@
+{
+  "name": "glance",
+  "owner": {
+    "name": "William Henry Federis"
+  },
+  "metadata": {
+    "description": "glance: a status widget for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "glance",
+      "source": "./",
+      "description": "A small widget above the prompt: status, model and effort, session cost, directory, git branch, and context, 5-hour and weekly usage bars."
+    }
+  ]
+}
